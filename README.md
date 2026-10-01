@@ -61,16 +61,15 @@ Desarrollo de software orientado a escalabilidad, arquitectura limpia y solucion
 ### Métricas de Contribución
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Guevaracj8&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&count_private=true&hide_border=true" width="100%" alt="Estadísticas de Ricardo Guevara" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guevaracj8&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true" width="100%" alt="Lenguajes Principales" />
-      </td>
-    </tr>
-  </table>
+
+  <!-- Tarjeta con tus 700+ contribuciones reales y curva de actividad -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guevaracj8&theme=github_dark" width="100%" alt="Resumen de Contribuciones de Ricardo Guevara" />
+
+  <br/><br/>
+
+  <!-- Desglose por lenguajes -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guevaracj8&theme=github_dark" width="70%" alt="Lenguajes por Repositorio" />
+
 </div>
 
 ---
